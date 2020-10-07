@@ -34,6 +34,16 @@ const PATH: &str = "src/benchmark-arquivos_testes/Test1.pas";
 
 /* 
 
+Identificador de tokens. 
+
+*/
+
+fn analisador_lexico() {
+
+}
+
+/* 
+
 Leitor de arquivos de texto. 
 
 */
